@@ -29,12 +29,20 @@
 
 • &nbsp;&nbsp; ⚡ Fun fact **I love Brainshaming people**
 
-</div>
-<img align="left" height="600"; width="350"; src="Images\second.png">
 <div>
+<img align="left" height=500; width=350; src="Images/second.png">
+
+ <p align="right">
+
+
+<!-- </div>
+<img align="left" height="600"; width="350"; src="Images\second2.png">
+<div> -->
+
 <br> <br>
 <br> <br>
 <br> <br>
+
  <p align="right">
 
 - Pursuing a bachelor's degree in Computer Science Engineering (Specialization in Artificial Intelligence & Data Engineering)
