@@ -30,8 +30,8 @@
 • &nbsp;&nbsp; ⚡ Fun fact **I love Brainshaming people**
 
 </div>
+<img align="left" height="600"; width="350"; src="Images\second.png">
 <div>
-<img align="left" height="600"; width="350"; src="Images\hacker.png">
 <br> <br>
 <br> <br>
 <br> <br>
