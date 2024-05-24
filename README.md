@@ -30,7 +30,7 @@
 • &nbsp;&nbsp; ⚡ Fun fact **I love Brainshaming people**
 
 <div>
-<img align="left" height=500; width=350; src="Images/second.png">
+<img align="left" height=600; width=350; src="Images/second.png">
 
  <p align="right">
 
@@ -69,7 +69,7 @@
 ![thecloudcode's STATS](https://github-readme-stats.vercel.app/api?username=thecloudcode&show_icons=true&theme=radical)
 	![Streak](https://github-readme-streak-stats.herokuapp.com/?user=thecloudcode&&theme=radical)
 	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecloudcode&theme=radical)
-	<img align="right" height="270" width="270" src="Images\hacker.png">
+	<!-- <img align="right" height="270" width="270" src="Images\hacker.png"> -->
 	<!-- <img align="right" height="300" width="320" src="Images\coderepeat.png"> -->
 
 
