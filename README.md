@@ -1,17 +1,17 @@
 
 <h1><strong>Hi, I am Badal Prasad Singh</strong></h1>
-
 <br>
-<br>
-
-<p><br>
-
+<p>
 <emphasis>C O M P E T I T I V E&nbsp; P R O G R A M M E R.
 <br> S O F T W A R E &nbsp; E N G I N E E R.
 <br> A I / M L&nbsp; E N T H U S I A S T.</emphasis>
 </p>
 <p>
-<br> <br>
+<p align="center"> <br>
+  V I S I T O R &nbsp; C O U N T<br>
+  <img src="https://profile-counter.glitch.me/thecloudcode/count.svg" />
+</p>
+<br>
 <div>
 
 <img align="right" height="250" width="250" src="Images\Software Engineer.png">
@@ -29,8 +29,9 @@
 
 • &nbsp;&nbsp; ⚡ Fun fact **I love Brainshaming people**
 
+
 <div>
-<img align="left" height=600; width=350; src="Images/second.png">
+<img align="left" height=600; width=350; src="Images/second2.png">
 
  <p align="right">
 
@@ -45,7 +46,7 @@
 
  <p align="right">
 
-- Pursuing a bachelor's degree in Computer Science Engineering (Specialization in Artificial Intelligence & Data Engineering)
+- Pursuing a bachelor's degree in Computer Science Engineering (Specialization in Artificial Intelligence & Data Engineering) (2022-2026)
 
 - Ex - AI/ML Engineer @Euphelity Private Limited
 
@@ -54,7 +55,7 @@
 - Ex - Project Management Intern @Foruppo
 
 - I'm open to freelance work
-
+</p>
 </div>
 <br><br>
 <br><br>
@@ -66,8 +67,10 @@
 
 
 
-![thecloudcode's STATS](https://github-readme-stats.vercel.app/api?username=thecloudcode&show_icons=true&theme=radical)
-	![Streak](https://github-readme-streak-stats.herokuapp.com/?user=thecloudcode&&theme=radical)
+<img width="410" src="https://github-readme-stats.vercel.app/api?username=thecloudcode&show_icons=true&theme=radical&bg_color=0D1117" />
+<img width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=thecloudcode&&theme=radical&background=0D1117" />
+<!-- <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecloudcode&theme=radical" /> -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=thecloudcode&theme=synthwave-84&bg_color=0D1117&hide_border=true" />
 	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecloudcode&theme=radical)
 	<!-- <img align="right" height="270" width="270" src="Images\hacker.png"> -->
 	<!-- <img align="right" height="300" width="320" src="Images\coderepeat.png"> -->
@@ -80,7 +83,7 @@
 <div>
 <br> <br><br><br>
 </div>
-<br> <br><br><br>
+<!-- <br> <br><br><br> -->
 <h1 align="center"><strong> Connect with me </h1></strong>
 
 <p align="center">
