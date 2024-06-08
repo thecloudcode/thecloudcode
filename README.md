@@ -11,6 +11,7 @@
 <p align="center"> <br>
   V I S I T O R S &nbsp; C O U N T<br>
   <img src="https://profile-counter.glitch.me/thecloudcode/count.svg" />
+  <img width="1000" src="Images\github-snake.svg" alt="snake"/>
 </p>
 <br>
 
