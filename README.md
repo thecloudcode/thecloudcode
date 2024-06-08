@@ -57,8 +57,8 @@
 
 
 
-<img width="410" src="https://github-readme-stats.vercel.app/api?username=thecloudcode&show_icons=true&theme=radical&bg_color=0D1117" />
-<img width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=thecloudcode&&theme=radical&background=0D1117" />
+<img width="410" src="https://github-readme-stats.vercel.app/api?username=thecloudcode&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true" />
+<img width="430" src="https://github-readme-streak-stats.herokuapp.com/?user=thecloudcode&&theme=radical&background=0D1117&hide_border=true" />
 <!-- <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecloudcode&theme=radical" /> -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=thecloudcode&theme=synthwave-84&bg_color=0D1117&hide_border=true" />
 	<!-- <img align="right" height="270" width="270" src="Images\hacker.png"> -->
