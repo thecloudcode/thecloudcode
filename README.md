@@ -21,15 +21,13 @@
 <br><br>
 
 
-• &nbsp;&nbsp; 🔭 I’m currently working on [**medaissist**](https://github.com/thecloudcode/medaissist)
+• &nbsp;&nbsp; 🌱 I’m currently learning **Deep Neural Networks**
 
-• &nbsp;&nbsp; 🌱 Pursuing a bachelor's degree in Computer Science Engineering (Specialization in Artificial Intelligence & Data Engineering) (2022-2026)
+• &nbsp;&nbsp; 💬 Ask me about **DSA**, **Machine Learning**, **React Native** & **Cloud**
 
-• &nbsp;&nbsp; 👨‍💻 Ex - AI/ML Engineer @Euphelity Private Limited
+• &nbsp;&nbsp; 📫 How to reach me **thecloudecodes@gmail.com**
 
-• &nbsp;&nbsp; 📱 Ex - React Native Developer Intern @Euphelity Private Limited
-
-• &nbsp;&nbsp; 📊 Ex - Project Management Intern @Foruppo
+• &nbsp;&nbsp; ⚡ Fun fact **I love Brainshaming people**
 
 • &nbsp;&nbsp; 💼 I'm open to freelance work
 
@@ -50,9 +48,6 @@
 • &nbsp;&nbsp; 📱 Ex - React Native Developer Intern @Euphelity Private Limited
 
 • &nbsp;&nbsp; 📊 Ex - Project Management Intern @Foruppo
-
-• &nbsp;&nbsp; 💼 I'm open to freelance work
-
 
 </div>
 <br>
