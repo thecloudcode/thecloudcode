@@ -29,11 +29,12 @@
 
 • &nbsp;&nbsp; ⚡ Fun fact **I love Brainshaming people**
 
+<br>
 
 <div>
 <img align="left" height=600; width=350; src="Images/second2.png">
 
- <p align="right">
+<p align="right">
 
 
 <!-- </div>
