@@ -27,7 +27,7 @@
 
 • &nbsp;&nbsp; 📫 How to reach me **thecloudecodes@gmail.com**
 
-• &nbsp;&nbsp; ⚡ Fun fact **I am an artist** and a **Chess player**
+• &nbsp;&nbsp; ⚡ Fun fact : I am an **Artist** and a **Chess Player**
 
 • &nbsp;&nbsp; 💼 I'm open to freelance work
 
